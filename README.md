@@ -4,7 +4,7 @@ Welcome to my programming journey! This repository will serve as a journal of my
 
 ## About This Repository
 
-In this repository, I will be documenting my progress as I work through the course **"Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"**. This course covers the basics of web development, focusing on HTML, CSS, and Responsive Web Design (RWD).
+In this repository, I will be documenting my progress as I work through the course **"Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"** by Mateusz Maj. This course covers the basics of web development, focusing on HTML, CSS, and Responsive Web Design (RWD).
 
 ## Course Overview
 

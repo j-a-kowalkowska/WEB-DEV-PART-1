@@ -14,9 +14,14 @@ In this repository, I will be documenting my progress as I work through the cour
 
 ## Repository Structure
 
-- `html/`: Contains my HTML files and projects.
-- `css/`: Contains my CSS files and styling projects.
-- `rwd/`: Contains my projects and exercises related to Responsive Web Design.
+Each major topic will be placed in a separate folder. The name of each folder will reflect the topic being covered. Inside each topic folder, the `index.html` file will be located directly within the folder. Additionally, there will be a subfolder named `css/` that contains all the CSS styles used on the page.
+
+Example structure:
+
+- `basic_html/`: Contains lessons on basic HTML elements
+  - `index.html`: Main HTML file for the basic HTML lessons
+  - `css/`: Subfolder containing all CSS styles for the basic HTML lessons
+    - `styles.css`: CSS file with styles for the basic HTML lessons
 
 ## Progress Updates
 
